@@ -1,17 +1,46 @@
-# assignment2
 
-A new Flutter project.
+## Tutedude Assignment 2
 
-## Getting Started
+This assignment focuses on learning and implementing basic Dart programming concepts through simple and logical programs.
 
-This project is a starting point for a Flutter application.
+⸻
 
-A few resources to get you started if this is your first Flutter project:
+# Objective
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+**The objective of this assignment is to:**
+•	Understand basic Dart syntax
+•	Learn variables and data types
+•	Apply operators and conditions
+•	Use loops to solve problems
+•	Write and execute simple Dart programs
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+⸻
+
+**Topics Covered**
+•	Variables and Data Types
+•	Operators
+•	Conditional Statements (if-else)
+•	Loops (for loop)
+•	Input and Output
+
+⸻
+
+**Programs Implemented**
+
+The following programs were created:
+1.	Even or Odd Checker
+→ Checks whether a number is even or odd
+2.	Sum of First N Numbers
+→ Calculates the sum from 1 to n
+3.	Number Series
+→ Prints numbers from 1 to 10 using loop
+4.	Largest of Three Numbers
+→ Finds the largest among three numbers
+5.	Input & Output Program
+→ Takes user input and displays output
+
+⸻
+
+ **How to Run**
+
+Use the following command to run any Dart file:
