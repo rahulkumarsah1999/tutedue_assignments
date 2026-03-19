@@ -41,7 +41,7 @@ The following Dart programs were created:
 
 **OUTPUTS**
 
- assignment3 % dart run functions.dart                             
+ ## **dart run functions.dart**                             
 Sum: 15
 7 is Odd
 Factorial: 120
@@ -66,16 +66,25 @@ Ravi : 88
 
 ## **dart run oop.dart**     
 Name: Rahul, Age: 22
+
 Name: Aman, Age: 21
+
 Addition: 15
+
 Multiplication: 12
 
 ## **dart run string.dart**
 Original: Hello Rahul
+
 Uppercase: HELLO RAHUL
+
 Lowercase: hello rahul
+
 Length: 11
+
 Contains Rahul: true
+
 Replace Rahul: Hello World
+
 Split: [Hello, Rahul]
 
