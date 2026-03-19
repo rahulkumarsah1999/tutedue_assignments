@@ -40,7 +40,6 @@ The following programs were created:
 → Takes user input and displays output
 
 ⸻
+ **Result**
 
- **How to Run**
-
-Use the following command to run any Dart file:
+All programs executed successfully without errors and demonstrated correct logic implementation.
